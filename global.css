@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lexend-deca: "Lexend Deca";
+  --font-lexend: Lexend;
+  --font-jost: Jost;
+  --font-dm-sans: "DM Sans";
+
+  /* font sizes */
+  --font-size-2xs: 11px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+  --font-size-2xl: 21px;
+  --font-size-base: 16px;
+  --font-size-lgi: 19px;
+  --font-size-lg: 18px;
+  --font-size-3xs: 10px;
+  --font-size-xs: 12px;
+  --font-size-20xl: 39px;
+  --font-size-18xl: 37px;
+  --font-size-sm: 14px;
+  --font-size-4xs: 9px;
+
+  /* Colors */
+  --color-gray-100: #2a263f;
+  --color-gray-200: #1a1f35;
+  --color-gray-300: #1e1e1e;
+  --color-gray-400: #1f1c16;
+  --color-gray-500: #141125;
+  --color-slategray: #64607f;
+  --color-black: #000;
+  --color-dimgray: #525252;
+  --color-white: #fff;
+  --color-gainsboro-100: #e2e2e2;
+  --color-gainsboro-200: #dcdcdc;
+  --color-gainsboro-300: #d9d9d9;
+  --color-silver-100: #c1c1c1;
+  --color-gold: #fae84b;
+  --color-blueviolet: #5138ee;
+  --color-skyblue-100: #65d7fc;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-11xs: 2px;
+  --br-6xl: 25px;
+  --br-10xs: 3px;
+  --br-13xl: 32px;
+  --br-6xs: 7px;
+  --br-xl: 20px;
+  --br-81xl: 100px;
+}
